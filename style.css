@@ -1,0 +1,61 @@
+body
+{
+    
+    
+    
+     background-position: center;
+ 
+    
+}
+
+h1
+{
+    color: rgb(255, 0, 0);
+}
+
+h4
+{
+    color: rgb(255, 115, 0);
+}
+
+h3
+{
+    color: rgb(255, 251, 0);
+}
+
+label
+{
+    color: rgb(60, 255, 0);
+}
+
+p
+{
+    color: rgb(0, 255, 234);
+}
+
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+button
+{
+    background-color: rgb(204, 0, 255);
+    height: 40px;
+    width: 100px;
+}
